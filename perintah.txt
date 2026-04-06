@@ -1,49 +1,25 @@
 Tambahkan record ini ke ./data.csv:
 
-*Form Registrasi Shahibul Qurban 1447 H* 
+[6/4 09.48] Mas Imam: *Form Registrasi Shahibul Qurban 1447 H* 
 
-Nama CP : Rahmawati
-Qurban atas nama (Bin/Binti) : Rahmawati binti Abdul Hamid Sa'ad 
-
-Alamat Lengkap : Jl. Revolusi Gg Teratai V No 94
-
-Telepon/HP : 
-0838 4229 8255
-
-Hewan Qurban : 
-A. Urunan Sapi ✅
-
-Pilihan salah satu :
-1. Saya ingin sebagian daging Hak Saya (Diambil/Dikirim)✅
- 
-2. Silakan Bagikan bagian saya
-
-
-Dengan ini saya menyerahkan pengelolaan hewan Qurban saya kepada *Panitia Qurban Daarut Thoyyibah* dan siap mengikuti tata tertib yang ditetapkan oleh panitia.
-
----
-
-*Form Registrasi Shahibul Qurban 1447 H* 
-
-Nama CP : DANIK
-Qurban atas nama (Bin/Binti) :  Danik bin Bahrun 
-Alamat Lengkap : DANIK
-Telepon/HP : 081350170682
+Nama CP : Ihromi Azmi Rahman
+Qurban atas nama (Bin) :  Herman Firdaus
+Alamat Lengkap : Perum Palaran Indah Kemilau 2 Blok G no. 10
+Telepon/HP : 085346751595
 Hewan Qurban : Sapi
 Pilihan salah satu : Saya ingin sebagian daging Hak Saya
 
 Dengan ini saya menyerahkan pengelolaan hewan Qurban saya kepada *Panitia Qurban Daarut Thoyyibah* dan siap mengikuti tata tertib yang ditetapkan oleh panitia.
+[6/4 10.01] Mas Imam: *Form Registrasi Shahibul Qurban 1447 H* 
 
----
+Nama CP : Wendy Wewisa Putra
+Qurban atas nama (Bin/Binti) : Wendy Wewisa Putra Bin Sugeng Reno
+Alamat Lengkap : Jl Revolusi II Gg. Nuri (Gmaps QianaShop)
+Telepon/HP : 085348870624
+Hewan Qurban :
+A. Urunan Sapi ✅
 
-*Form Registrasi Shahibul Qurban 1447 H* 
-
-Nama CP : 
-Qurban atas nama (Bin/Binti) : Sutrisno Setariyadi bin Tri Rohaji
-Alamat Lengkap : Jl. Gelatik 1 blok B RT 13 No.9
-Telepon/HP : 085246358729
-Hewan Qurban :  Urunan Sapi
 Pilihan salah satu :
-1. Saya ingin sebagian daging Hak Saya (Diambil/Dikirim) 
+1. Saya ingin sebagian daging Hak Saya (Diambil/Dikirim) ✅
 
 Dengan ini saya menyerahkan pengelolaan hewan Qurban saya kepada *Panitia Qurban Daarut Thoyyibah* dan siap mengikuti tata tertib yang ditetapkan oleh panitia.
